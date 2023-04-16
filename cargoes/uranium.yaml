@@ -1,0 +1,17 @@
+abbreviation: UO
+available: true
+classes: 272
+colour: 207
+id: 0
+label: RAWU
+longName: uranium
+name: Uranium
+penaltyLength: 53
+penaltyLowerBound: 16
+price: 4112
+sprite:
+  filename: cargoes/uranium.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

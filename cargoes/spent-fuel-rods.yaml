@@ -1,0 +1,17 @@
+abbreviation: SF
+available: true
+classes: 288
+colour: 206
+id: 2
+label: UNFU
+longName: spent fuel rods
+name: Spent Fuel Rods
+penaltyLength: 23
+penaltyLowerBound: 9
+price: 4112
+sprite:
+  filename: cargoes/spent-fuel-rods.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 10

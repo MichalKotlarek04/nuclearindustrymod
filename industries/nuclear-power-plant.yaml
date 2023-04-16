@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- UNFF
+cargoProduction:
+- UNFU
+colour: 1
+fundCostMultiplier: 192
+id: 2
+layout:
+- - - -1
+name: Nuclear Power Plant
+placement: near-town
+probabilityInGame: 1
+probabilityMapGen: 4
+prospectChance: 0
+tiles: []
+type: tertiary

@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- RAWU
+colour: 1
+fundCostMultiplier: 226
+id: 0
+layout:
+- - - -1
+name: Uranium Mine
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 10
+prospectChance: 75
+tiles: []
+type: primary

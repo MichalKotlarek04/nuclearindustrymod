@@ -1,0 +1,17 @@
+abbreviation: MI
+available: true
+classes: 320
+colour: 149
+id: 4
+label: MEDI
+longName: medical isotopes
+name: Medical Isotopes
+penaltyLength: 12
+penaltyLowerBound: 0
+price: 11103
+sprite:
+  filename: cargoes/medical-isotopes.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 18

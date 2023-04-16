@@ -1,0 +1,17 @@
+abbreviation: NF
+available: true
+classes: 288
+colour: 208
+id: 1
+label: UNFF
+longName: nuclear fuel rods
+name: Nuclear Fuel Rods
+penaltyLength: 16
+penaltyLowerBound: 16
+price: 6991
+sprite:
+  filename: cargoes/nuclear-fuel-rods.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 10
