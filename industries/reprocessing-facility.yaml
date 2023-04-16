@@ -1,0 +1,19 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- UNFU
+cargoProduction:
+- MEDI
+- UNFF
+colour: 1
+fundCostMultiplier: 100
+id: 3
+layout:
+- - - -1
+name: Reprocessing Facility
+placement: anywhere
+probabilityInGame: 2
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

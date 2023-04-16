@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- MEDI
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 63
+id: 4
+layout:
+- - - -1
+name: Hospital
+placement: in-large-town
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 0
+tiles: []
+type: tertiary
